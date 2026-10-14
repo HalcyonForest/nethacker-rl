@@ -1,0 +1,8 @@
+{
+  "frames": 195,
+  "max_logit_error": 3.814697265625e-06,
+  "max_hidden_error": 3.516674041748047e-06,
+  "argmax_mismatches": 0,
+  "numpy_network_mean_ms": 1.3792462102555758,
+  "passed": true
+}
